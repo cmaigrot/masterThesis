@@ -13,5 +13,9 @@ Des lexiques ont été réqlisé dans le cadre de ce stage. Chaque concept est r
 Note : Le même lexique est utilisé pour les tentatives de suicide passées et les idéations suicidaires, les deux concepts étant basé sur les modes de suicide (pendaison, fusil, saut, ...). La différence se trouve sur lémploit du passé pour les tentatives passées et le présent/futur pour les idéations suicidaires. 
 
 ## Présentation
+Plusieurs présentations ont été réalisées sur ces travaux :
+* Présentation pour la présentation du stage
+* Présentation devant ma nouvelle équipe à Rennes (en anglais)
+* Présentation pour la conférence durant laquelle les travaux ont été présentés.
 
 ## Code source
